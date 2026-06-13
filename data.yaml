@@ -1,0 +1,8 @@
+path: .  # Der Punkt bedeutet: Nimm das aktuelle Verzeichnis 'ProjektSchnatti'
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 16
+names: ['100uF_Electrolytic_Capacitor_2PCS', '104pF_Ceramic_Capacitor_5PCS', '10uF_Electrolytic_Capacitor_2PCS', '5V_Relay_1PC', '74HC595_IC_1PC', 'Blue_LED_5PCS', 'Diode_Rectifier_5PCS', 'Green_LED_5PCS', 'NPN_Transistor_S8050_5PCS', 'Photoresistor_2PCS', 'RGB_LED_2PCS', 'Red_LED_5PCS', 'Resistor_120PCS', 'Thermistor_1PC', 'White_LED_5PCS', 'Yellow_LED_5PCS']
+
